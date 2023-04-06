@@ -2,6 +2,7 @@ from murder import *
 from menu import *
 from victim import *
 character=menu()
+
 if (character=='c'):
     victim()
 elif (character=='j'):
